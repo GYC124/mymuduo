@@ -1,0 +1,3 @@
+/home/snow/myMuduo/build/CMakeFiles/mymuduo.dir
+/home/snow/myMuduo/build/CMakeFiles/edit_cache.dir
+/home/snow/myMuduo/build/CMakeFiles/rebuild_cache.dir
